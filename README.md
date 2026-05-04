@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome to my world of data&fontSize=40"/>
 
 
 ## Hi, I'm Phuong 👋
