@@ -8,6 +8,10 @@
 </div>
 
 ***
+Data Engineer with a strong foundation in data analysis, passionate about building scalable and reliable data systems.
+I turn complex, real-world data into structured, efficient pipelines designed for performance and usability.
+
+Constantly learning and adapting, I aim to create data solutions that are functional, impactful, and built for real-world use.
 ---
 
 
