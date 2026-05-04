@@ -11,40 +11,51 @@
 
 ***
 
-## 📊 GitHub Stats
-
+## 📊GitHub Stats
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuong6fois7&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ksondeji&theme=radical)
 
 </div>
 
 ---
 
+## 🛠️  My Toolbox
 
-🛠️ Ma Boîte à Outils
+### 📥 Data Ingestion & Processing
 
-📥 Data Ingestion & Processing
-Python Pandas PySpark
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
 
-🗄️ Bases de Données
-PostgreSQL MySQL MongoDB
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
 
 🔄 Orchestration
-Apache Airflow
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
 
 ☁️ Cloud & Data Platforms
-AWS Microsoft Azure Databricks Microsoft Fabric
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EA3E2C?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-⚙️ Outils & DevOps
-Docker Git
+⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-📊Visualization
-Dash PowerBI
+📊 Data Visualization
+![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 📚 En cours d'apprentissage
-Apache Kafka Apache Spark Scala
-
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 🔧 What I Do
 Design and build end-to-end data pipelines
