@@ -1,4 +1,13 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bienvenue&fontSize=40"/>
+
+
+## Hi, I'm Phuong 👋
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Data+Engineer;Building+Data+Pipelines;Always+Learning+🚀&center=true&width=500&height=50">
+</div>
+
+<div align="center">
 
 🚀 Junior Data Engineer
 
