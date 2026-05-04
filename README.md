@@ -9,10 +9,22 @@
 
 <div align="center">
 
-🚀 Junior Data Engineer
+***
 
-Data Engineer with a hybrid background in data analysis, focused on building scalable, reliable, and efficient data pipelines.
-I enjoy working with real-world data and transforming complex processes into structured, actionable insights.
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ksondeji&theme=radical)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksondeji&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
 
 🛠️ Ma Boîte à Outils
 
