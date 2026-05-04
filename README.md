@@ -12,7 +12,7 @@
 ## 📊GitHub Stats
 
 <div align="center">
-    ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuong6fois7&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuong6fois7&theme=radical)
 </div>
 
 ---
