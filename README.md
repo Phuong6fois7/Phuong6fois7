@@ -12,7 +12,7 @@
 ## 📊GitHub Stats
 <div>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuong6fois7&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ksondeji&theme=radical)
 
 </div>
 
@@ -55,23 +55,11 @@
 ![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 📚 En cours d'apprentissage
+### 📚 Currently Learning
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-
-🔧 What I Do
-Design and build end-to-end data pipelines
-Ingest data from multiple sources
-Transform and process data using Pandas & PySpark
-Write optimized SQL queries (joins, aggregations)
-Load and structure data into PostgreSQL
-Deliver clean datasets for analytics and visualization
-
-
-🎯 Goal
-Build scalable, robust, and production-ready data systems.
 
 ---
 
