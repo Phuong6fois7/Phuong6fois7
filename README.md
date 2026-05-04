@@ -15,12 +15,8 @@
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ksondeji&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuong6fois7&theme=radical)
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksondeji&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
 ---
