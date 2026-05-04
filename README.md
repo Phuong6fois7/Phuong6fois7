@@ -41,11 +41,6 @@ Deliver clean datasets for analytics and visualization
 🎯 Goal
 Build scalable, robust, and production-ready data systems.
 
-👨🏾‍💻 Fun Fact
-class DataEngineer:
-    def say_hi(self):
-        return "Thanks for visiting my profile 👋🏾"
-
 ---
 
 ## 📊 Profile Views
@@ -55,4 +50,6 @@ class DataEngineer:
 </div>
 
 ---
+
+### Thanks for visiting my profile!
 
