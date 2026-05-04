@@ -8,22 +8,6 @@
 </div>
 
 ***
-
-## 📊GitHub Stats
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phuong6fois7&show_icons=true&theme=radical&count_private=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuong6fois7&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phuong6fois7&layout=compact&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phuong6fois7&theme=tokyo-night)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Phuong6fois7&theme=radical)
-
-</div>
-
 ---
 
 
