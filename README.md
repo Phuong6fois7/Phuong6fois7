@@ -69,5 +69,6 @@
 If you’d like to get in touch, feel free to send me an email.  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nphuong9509@gmail.com)
 
-There’s more to me than data! Come explore my world on YouTube 🚀
+There’s more to me than data! Come explore my world on YouTube. 🚀
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nhuphuongnguyen-MP)
