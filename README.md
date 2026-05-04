@@ -20,35 +20,28 @@ Here are some ideas to get you started:
 Data Engineer with a hybrid background in data analysis, focused on building scalable, reliable, and efficient data pipelines.
 I enjoy working with real-world data and transforming complex processes into structured, actionable insights.
 
-🛠️ Tech Stack
+🛠️ Ma Boîte à Outils
+📥 Data Ingestion & Processing
+Python Pandas PySpark
 
-Languages
+🗄️ Bases de Données
+PostgreSQL MySQL MongoDB
 
-Python
-SQL
-
-Data Processing
-
-Pandas
-PySpark
-
-Databases
-
-PostgreSQL
-MySQL
-
-Orchestration
-
+🔄 Orchestration
 Apache Airflow
 
-Tools
+☁️ Cloud & Data Platforms
+AWS Microsoft Azure Databricks Microsoft Fabric
 
-Git
-Docker
+⚙️ Outils & DevOps
+Docker Git
 
-Visualization
+📊Visualization
+Dash PowerBI
 
-Dash
+📚 En cours d'apprentissage
+Apache Kafka Apache Spark Scala
+
 🔧 What I Do
 Design and build end-to-end data pipelines
 Ingest data from multiple sources
