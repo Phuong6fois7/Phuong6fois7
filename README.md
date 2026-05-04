@@ -45,3 +45,14 @@ Build scalable, robust, and production-ready data systems.
 class DataEngineer:
     def say_hi(self):
         return "Thanks for visiting my profile 👋🏾"
+
+---
+
+## 📊 Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ksondeji&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+---
+
